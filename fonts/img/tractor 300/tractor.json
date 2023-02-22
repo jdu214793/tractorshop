@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Fendt 900 Vario",
+        "price": "168.000$",
+        "img": "1.jpg"
+    
+    },
+    {
+        "id": 2,
+        "name": "Claas",
+        "price": "155.000$",
+        "img": "2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Deutz Fahr",
+        "price": "80.000$",
+        "img": "3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kubota",
+        "price": "78.000$",
+        "img": "4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Escort Farmtrac",
+        "price": "85.000$",
+        "img": "5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sonalika",
+        "price": "95.000$",
+        "img": "6.jpg"
+    }
+]
